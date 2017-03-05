@@ -1,0 +1,10 @@
+c:\users\charlie\documents\visual studio 2015\Projects\Merge Sort and Binary Search\Merge Sort and Binary Search\bin\Debug\Merge Sort and Binary Search.exe.config
+c:\users\charlie\documents\visual studio 2015\Projects\Merge Sort and Binary Search\Merge Sort and Binary Search\bin\Debug\Merge Sort and Binary Search.exe
+c:\users\charlie\documents\visual studio 2015\Projects\Merge Sort and Binary Search\Merge Sort and Binary Search\bin\Debug\Merge Sort and Binary Search.pdb
+c:\users\charlie\documents\visual studio 2015\Projects\Merge Sort and Binary Search\Merge Sort and Binary Search\bin\Debug\Merge Sort and Binary Search.xml
+c:\users\charlie\documents\visual studio 2015\Projects\Merge Sort and Binary Search\Merge Sort and Binary Search\obj\Debug\Merge Sort and Binary Search.vbprojResolveAssemblyReference.cache
+c:\users\charlie\documents\visual studio 2015\Projects\Merge Sort and Binary Search\Merge Sort and Binary Search\obj\Debug\Merge_Sort_and_Binary_Search.Resources.resources
+c:\users\charlie\documents\visual studio 2015\Projects\Merge Sort and Binary Search\Merge Sort and Binary Search\obj\Debug\Merge Sort and Binary Search.vbproj.GenerateResource.Cache
+c:\users\charlie\documents\visual studio 2015\Projects\Merge Sort and Binary Search\Merge Sort and Binary Search\obj\Debug\Merge Sort and Binary Search.exe
+c:\users\charlie\documents\visual studio 2015\Projects\Merge Sort and Binary Search\Merge Sort and Binary Search\obj\Debug\Merge Sort and Binary Search.xml
+c:\users\charlie\documents\visual studio 2015\Projects\Merge Sort and Binary Search\Merge Sort and Binary Search\obj\Debug\Merge Sort and Binary Search.pdb
